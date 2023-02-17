@@ -37,7 +37,7 @@
 
 <br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=JParkBro's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Jeongseon's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
 </p>
 <div align='center'> 🖥 소통을 좋아하는 신입 개발자 </div>
 <br>
